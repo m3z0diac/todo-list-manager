@@ -22,12 +22,11 @@ ps: make sure node.js is installed in your device
 ### demo images
 
 ![alt text for screen readers](/demo/1.jpg "")
-<br/ >
+
 ![alt text for screen readers](/demo/2.jpg "")
-<br/ >
+
 ![alt text for screen readers](/demo/3.jpg "")
-<br/ >
+
 ![alt text for screen readers](/demo/4.jpg "")
-<br/ >
+
 ![alt text for screen readers](/demo/5.jpg "")
-<br/ >
