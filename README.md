@@ -2,7 +2,7 @@
 Todo list manager is my first react js web application that is consuming from Laravel rest api
 
 ### laravel api
-after runing the mysql server in your localhost run the laravel api with
+after runing the mysql server in your localhost run the laravel api with following command
 ```
 php artisanserv
 ```
