@@ -1,0 +1,9 @@
+.edit-task .card-header {
+    background-color: var(--color-primary) !important;
+    color: var(--color-white) !important;
+}
+
+.edit-task .card-body {
+    background-color: var(--color-white) !important;
+    color: var(--color-primary) !important;
+}

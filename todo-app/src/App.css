@@ -1,0 +1,23 @@
+:root {
+  --color-primary: #0e1f5b;
+  --color-secondary: #1b528a;
+  --color-white: #fff;
+  --color-black: #000;
+
+  --padding-primary: 5%;
+  --radius-primary: 3rem;
+}
+
+.btn-submit {
+  background-color: var(--color-primary);
+  color: var(--color-white);
+}
+
+.btn-submit, .btn-delete {
+  border: none;
+}
+
+h1 {
+  font-family: 'Lilita One', cursive;
+  letter-spacing: 1px;
+}

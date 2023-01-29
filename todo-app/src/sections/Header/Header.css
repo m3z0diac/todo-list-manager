@@ -1,0 +1,17 @@
+header {
+    background-color: var(--color-white);
+    margin: 0 !important;
+}
+
+header h1 {
+    color: var(--color-primary);
+    font-weight: bolder;
+}
+
+header .main-btn {
+    background-color: var(--color-primary);
+    color: var(--color-white);
+    border: none;
+    border-radius: var(--radius-primary);
+    font-family: 'Bree Serif', serif;
+}

@@ -1,0 +1,17 @@
+
+.tasks .card .card-header, .card .card-body {
+    background-color: var(--color-primary);
+    color: var(--color-white);
+    border: none !important;
+    border-radius: 0px !important;
+}
+
+.tasks .card .card-body {
+    background-color: var(--color-white);
+    color: var(--color-black);
+}
+
+.tasks .card {
+    border-radius: 0px !important;
+    overflow: hidden;
+}
