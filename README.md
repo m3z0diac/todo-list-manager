@@ -18,3 +18,7 @@ then run the app
 npx start
 ```
 ps: make sure node.js is installed in your device
+
+### demo images
+
+![alt text for screen readers](/demo/1.jpg "")
