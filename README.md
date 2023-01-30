@@ -6,7 +6,7 @@ after runing the mysql server in your localhost run the laravel api with followi
 ```
 php artisanserv
 ```
-ps: make sure composer packages are installed in your device
+make sure composer packages are installed in your device
 
 ### react app
 first, you have to install node moduls inside todo-app folder with flollwing command
@@ -17,7 +17,7 @@ then run the app
 ```
 npx start
 ```
-ps: make sure node.js is installed in your device
+make sure node.js is installed in your device
 
 ### demo images
 
